@@ -1,0 +1,10 @@
+| TestBase| | OpenBrowser | | 28 | 19/03/2018 11:15:42 | devpinoyLogger | Chrome Browser Launched
+| TestBase| | OpenBrowser | | 30 | 19/03/2018 11:15:46 | devpinoyLogger | URL is Entered
+| TestBase| | OpenBrowser | | 32 | 19/03/2018 11:15:47 | devpinoyLogger | Window size maximized
+| Library| | checkloginfunctionality | | 21 | 19/03/2018 11:15:47 | devpinoyLogger | Entered Username
+| Library| | checkloginfunctionality | | 23 | 19/03/2018 11:15:47 | devpinoyLogger | Entered Password
+| Library| | checkloginfunctionality | | 25 | 19/03/2018 11:15:51 | devpinoyLogger | Clicked on Login
+| Library| | checkloginfunctionality | | 28 | 19/03/2018 11:15:51 | devpinoyLogger | ScreenShot Captured
+| Library| | mousehoveronUsers | | 38 | 19/03/2018 11:15:51 | devpinoyLogger | mousehover on admin
+| Library| | mousehoveronUsers | | 42 | 19/03/2018 11:15:54 | devpinoyLogger | mousehover on User Management
+| TestBase| | CloseBrowser | | 40 | 19/03/2018 11:16:00 | devpinoyLogger | Driver instance killed

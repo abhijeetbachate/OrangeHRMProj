@@ -1,0 +1,4 @@
+| TestBase| | OpenBrowser | | 28 | 23/03/2018 12:26:27 | devpinoyLogger | Chrome Browser Launched
+| TestBase| | OpenBrowser | | 30 | 23/03/2018 12:26:30 | devpinoyLogger | URL is Entered
+| TestBase| | OpenBrowser | | 32 | 23/03/2018 12:26:32 | devpinoyLogger | Window size maximized
+| TestBase| | CloseBrowser | | 40 | 23/03/2018 12:26:32 | devpinoyLogger | Driver instance killed
